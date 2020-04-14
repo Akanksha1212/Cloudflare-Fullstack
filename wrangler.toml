@@ -1,6 +1,6 @@
 name = "cf-task"
 type = "javascript"
-account_id = ""
+account_id = "e2a44ec8882139089cfe9199aa668df5"
 workers_dev = true
 route = ""
 zone_id = ""
